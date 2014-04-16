@@ -1,0 +1,18 @@
+{
+  "name": "meanster",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alexoviedo999/meanster",
+  "authors": [
+    "alexoviedo999 <alexoviedo999@gmail.com>"
+  ],
+  "description": "Student CRM",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "toastr": "~2.0.1",
+    "angular": "~1.2.16",
+    "angular-resource": "~1.2.16",
+    "angular-route": "~1.2.16"
+  }
+}
