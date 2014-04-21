@@ -10,6 +10,7 @@
     "jade": "*",
     "stylus": "^0.43.1",
     "morgan": "*",
-    "body-parser": "*"
+    "body-parser": "*",
+    "mongoose": "^3.8.8"
   }
 }
